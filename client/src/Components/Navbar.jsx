@@ -86,7 +86,7 @@ const Navbar = ({ loggedIn, onLogout }) => {
         to="/"
         _hover={{ textDecoration: "none", color: "whitesmoke" }}
       >
-        <Flex>Class Library</Flex>
+        <Flex>GRIET IV-II</Flex>
       </ChakraLink>
 
       <Flex justifyContent="space-around" alignItems="center" width="50vw">
